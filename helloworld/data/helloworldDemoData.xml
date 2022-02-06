@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-facade-xml type="demo">
+    <helloworld.Example exampleId="1" exampleName="Bhavna" exampleDate="03/02/2022" examplePrice="2000" exampleQuantity="1"/>
+    <helloworld.Example exampleId="2" exampleName="Tamanna" exampleDate="03/02/2022" examplePrice="3000" exampleQuantity="2"/>
+</entity-facade-xml>
